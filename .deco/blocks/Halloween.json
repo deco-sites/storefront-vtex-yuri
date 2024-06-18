@@ -1,0 +1,19 @@
+{
+  "fonts": {
+    "fontFamily": "'Courier New'"
+  },
+  "mainColors": {
+    "primary": "#861C0E",
+    "base-100": "#FFFFFF",
+    "tertiary": "#51a800",
+    "secondary": "#fcb816"
+  },
+  "buttonStyle": {
+    "--border-btn": "3px",
+    "--rounded-btn": "2rem",
+    "--animation-btn": "0.25s",
+    "--btn-text-case": "uppercase",
+    "--btn-focus-scale": "1.05"
+  },
+  "__resolveType": "site/sections/Theme/Theme.tsx"
+}
